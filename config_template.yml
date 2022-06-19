@@ -1,0 +1,5 @@
+log_path: "/path/to/entries"
+log_url: "https://log.int.ppn.sh"
+telegram_base_url: "https://api.telegram.org"
+telegram_bot_chat_id: "0123456789"
+telegram_bot_token: "0123456789:436E0619B85F43_e6ae62B486322743CC2d"
